@@ -1,7 +1,7 @@
 ------------------------------------------------
 ## Olá! Eu sou Matheus Marmo
 
-😀 Interrese em trabalhar com Front-End, Banco de dados SQL
+😀 Interesse em trabalhar com Front-End, Banco de dados SQL
 
 🏫 Cursando Ciências da Computação, pela FAESA
 
